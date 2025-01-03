@@ -1,1 +1,0 @@
-spellswipegame.github.io
